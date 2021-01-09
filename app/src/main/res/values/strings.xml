@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gimme Pizza!</string>
+    <string name="tab_text_1">MENIU</string>
+    <string name="tab_text_2">COMANDĂ</string>
+    <string name="logo">logo</string>
+</resources>
